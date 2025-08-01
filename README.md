@@ -30,9 +30,6 @@
 h3>🔅My github status🔅</h3>
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3>🔅My github status🔅</h3>
-<div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejaeseok-98&hide=contribs,prs&show_icons=true&theme=테마)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejaeseok-98&layout=compact)
 </div>
 
